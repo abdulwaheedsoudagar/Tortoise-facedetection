@@ -5,7 +5,7 @@ Here we try to draw the bounding box on the tortoise's face. URL for the competi
 <br><br><br>
 I had used FasterRCNN using PyTorch for training the model. I believe it gave me good results. 
 
-<br><br><br>
+<br><br>
 Model prediction -<br><br> ![](images/0B4BD7E5_pred.JPG)
 <br><br><br>
 ![](images/2DF693B3_pred.JPG)
