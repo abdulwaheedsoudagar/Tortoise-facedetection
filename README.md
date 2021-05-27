@@ -8,4 +8,4 @@ I had used FasterRCNN using PyTorch for training the model. I believe it gave me
 <br><br><br>
 Model prediction -<br><br> ![](images/0B4BD7E5_pred.JPG)
 <br><br><br>
-![](images/0B4BD7E5_pred.JPG)
+![](images/2DF693B3_pred.JPG)
